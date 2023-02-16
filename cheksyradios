@@ -1,0 +1,39 @@
+<html>
+  <head>
+   
+    <title>CheksRadios</title>
+
+</head>
+  <body bgcolor="#DEFF0A" text="#853827">
+    <class class="form-check">
+        <input onclick="alert('Hola soy Alan')" class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+        <label class="form-check-label" for="flexCheckDefault">
+          Acepta
+        </label>
+    </class>
+
+  <input onclick="alert('Susbcrito')" class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+        <label class="form-check-label" for="flexRadioDefault1">
+          Suscribete
+        </label>
+    </div>
+<h1><i><font color="#FF0A0A">Voten por su equipo favorito</i></font></h1>
+    <div class="form-check form-check-inline" >
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+        <label class="form-check-label" for="inlineRadio1">1. CRUZ AZUL</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label" for="inlineRadio2">2. CHIVAS</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label" for="inlineRadio2">3.AMERICA</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label" for="inlineRadio2">4. PUMAS</label>
+      </div>
+      <br>
+      <br> </body>
+</html>
